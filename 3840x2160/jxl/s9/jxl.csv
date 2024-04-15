@@ -1,0 +1,5 @@
+Filename,q_flag,Avg Time,Avg Energy,File Size,Resolution,bpp
+img_3840x2160_3x8bit_RGB_color_bars_CMYKWRGB,0,25.617917860,943.57,3095,3840x2160,.0029
+img_3840x2160_3x8bit_RGB_color_rainbow_gradient,0,25.945914401,978.70,7595,3840x2160,.0073
+img_3840x2160_3x8bit_RGB_color_rainbow,0,25.363962214,902.54,876,3840x2160,.0008
+img_3840x2160_3x8bit_RGB_color_SMPTE_RP_219_2002,0,25.470980780,919.14,4543,3840x2160,.0043
